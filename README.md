@@ -1,7 +1,5 @@
 # Chef ruby_rbenv Cookbook
 
-I want to trigger a travis build
-
 [![Build Status](https://travis-ci.org/sous-chefs/ruby_rbenv.svg?branch=master)](https://travis-ci.org/sous-chefs/ruby_rbenv) [![Cookbook Version](https://img.shields.io/cookbook/v/ruby_rbenv.svg)](https://supermarket.chef.io/cookbooks/ruby_rbenv)
 
 ## Description
